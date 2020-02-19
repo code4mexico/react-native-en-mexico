@@ -3,7 +3,7 @@
   <img  width="350" height="350" src="https://facebook.github.io/react-native/img/header_logo.svg" width="350" alt="React Native Mexico">
 </div>
 <p align="center">
-Repository showing companies and projects using [React Native](https://facebook.github.io/react-native/) in Mexico
+Repository showing companies and projects using <a href="https://facebook.github.io/react-native/" target="_blank">React Native</a> in Mexico
 </p>
 
 If your company and / or project uses React Native, be sure to create a **[Pull Request](https://github.com/code4mexico/react-native-en-mexico/pulls)**
