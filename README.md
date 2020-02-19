@@ -6,7 +6,8 @@
 Repository showing companies and projects using <a href="https://facebook.github.io/react-native/" target="_blank">React Native</a> in Mexico
 </p>
 
-If your company and / or project uses React Native, be sure to create a **[Pull Request](https://github.com/code4mexico/react-native-en-mexico/pulls)**
+If your company and / or project uses React Native be sure to create a **[Pull Request](https://github.com/code4mexico/react-native-en-mexico/pulls)**.
+
 Some projects are from startups still in conception or incubated within companies that may have the potential to become an independent product and deserve to be highlighted, indicate your project if it fits in these situations
 
 ## Companies
