@@ -1,6 +1,6 @@
 # React Native in Mexico
 <div align="center">
-  <img  width="350" height="350" src="https://facebook.github.io/react-native/img/header_logo.svg" width="350" alt="React Native Mexico">
+  <img width="350" height="350" src="https://facebook.github.io/react-native/img/header_logo.svg" width="350" alt="React Native Mexico">
 </div>
 <p align="center">
 Repository showing companies and projects using <a href="https://facebook.github.io/react-native/" target="_blank">React Native</a> in Mexico
@@ -14,6 +14,13 @@ Some projects are from startups still in conception or incubated within companie
 | Name | City | Google Play | Apple Store | Repository | Remote work 🏠 / On Site work 🏢|
 |------|------|-------------|-------------|------------|---------------------------------|
 |[Code for Mexico](https://codeformexico.com/)|Mexico City|[Android](https://play.google.com/store/apps/details?id=com.transportecdmx)|[iOS](https://apps.apple.com/mx/app/transporte-ciudad-de-m%C3%A9xico/id1494063800)|[GitHub](https://github.com/code4mexico/transporteCDMX)|Remote work 🏠|
+|      |      |             |             |            |                            |
+|      |      |             |             |            |                            |
+
+## Projects
+| Name | City | Google Play | Apple Store | Repository | Organization or Company|
+|------|------|-------------|-------------|------------|---------------------------------|
+|TransporteCDMX|Mexico City|[Android](https://play.google.com/store/apps/details?id=com.transportecdmx)|[iOS](https://apps.apple.com/mx/app/transporte-ciudad-de-m%C3%A9xico/id1494063800)|[GitHub](https://github.com/code4mexico/transporteCDMX)|[Code for Mexico](https://codeformexico.com/)|
 |      |      |             |             |            |                            |
 |      |      |             |             |            |                            |
 
