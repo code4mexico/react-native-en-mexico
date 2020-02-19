@@ -1,4 +1,4 @@
-# React Native in Mexico
+# React Native in Mexico 🇲🇽
 <div align="center">
   <img width="350" height="350" src="https://facebook.github.io/react-native/img/header_logo.svg" width="350" alt="React Native Mexico">
 </div>
