@@ -25,7 +25,7 @@ Some projects are from startups still in conception or incubated within companie
 |[michelada.io](https://michelada.io/)|Colima City| TBD |TBD|[GitHub](https://github.com/Michelada)|TBD|
 |[Nolte](https://wearenolte.com)|Mexico City|[Android](https://play.google.com/store/apps/details?id=com.wearenolte.coachmate)|[iOS](https://apps.apple.com/us/app/coachmate/id1458552342)|[GitHub](https://github.com/wearenolte)|Remote 🏠 + On Site 🏢|
 |[runa](https://runahr.com)|Mexico City|TBD|TBD|[GitHub](https://github.com/runahr)|On Site 🏢|
-|      |      |             |             |            |                            |
+|[Fucesa](https://fucesa.com)|Toluca City|TBD|[iOS](https://apps.apple.com/us/app/fucesa/id1462596478)|[GitHub](https://github.com/fucesa)|On Site 🏢|
 |      |      |             |             |            |                            |
 |      |      |             |             |            |                            |
 |      |      |             |             |            |                            |
